@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-tor-06
 - 👀 I’m interested in computers and programming
-- 🌱 I’m currently learning computer English
+- 🌱 I’m currently learning computer engineering
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love tech!
 
